@@ -1,4 +1,4 @@
-# Mathematical Morphology Augmentation - Supplementary Code
+# Subsurface Image Augmentation: A Mathematical Morphology Method
 
 This repository contains the implementation of the mathematical morphology augmentation technique described in the manuscript under review. This code is provided as supplementary material to facilitate reproducibility of the results.
 
